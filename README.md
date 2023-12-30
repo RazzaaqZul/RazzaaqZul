@@ -75,3 +75,15 @@
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+
+<br/>
+<br/>
+
+# 📊 GitHub Stats:
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RazzaaqZul&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt=""/> <br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RazzaaqZul&theme=dark&hide_border=false" alt=""/> <br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazzaaqZul&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt=""/>
+
+</p>
