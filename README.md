@@ -52,7 +52,7 @@
 
 <p>
     <a href="#"><img  alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img  alt="Tailwindcss" src=" https://img.shields.io/badge/Tailwindcss-20232a.svg?logo=tailwindcss&logoColor=blue"></a>
+    <a href="#"><img  alt="Tailwindcss" src=" https://img.shields.io/badge/TailwindCSS-20232a.svg?logo=tailwindcss&logoColor=blue"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
    
 </p>
