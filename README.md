@@ -4,7 +4,7 @@
   <img  src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+profile!;My+name+is+Razzaaq+✨;An+Backend+Enthusiast+👨‍💻 ;An+Full-stack+Enthusiast+👨‍💻!&font=Fira%20Code&center=true&width=380&height=60&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
-<p align="center"> I'm Razzaaq ✨, an Frontend Enthusiast. All Coding project are built from ground up, from planning, and designing all the way to solving problems with my code.
+<p align="center"> I'm Razzaaq ✨, an Web Developer Enthusiast. All Coding project are built from ground up, from planning, and designing all the way to solving problems with my code.
 
 </p>
 
