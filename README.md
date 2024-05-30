@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img  src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+profile!;My+name+is+Razzaaq+✨;An+Frontend+Enthusiast+👨‍💻!&font=Fira%20Code&center=true&width=380&height=60&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img  src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+profile!;My+name+is+Razzaaq+✨;An+Backend+Enthusiast+👨‍💻 ;An+Full-stack+Enthusiast+👨‍💻!&font=Fira%20Code&center=true&width=380&height=60&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <p align="center"> I'm Razzaaq ✨, an Frontend Enthusiast. All Coding project are built from ground up, from planning, and designing all the way to solving problems with my code.
@@ -43,7 +43,7 @@
       <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
       <!-- <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> -->
       <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-      <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+<!--       <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a> -->
    
     
   </p>
@@ -54,14 +54,17 @@
     <a href="#"><img  alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img  alt="Tailwindcss" src="https://img.shields.io/badge/TailwindCSS-27745c.svg?logo=tailwindcss"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+     <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white"></a>
    
 </p>
 
 <h3>🗄️ Databases and Cloud Hosting</h3>
 
 <p>
-         <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+<!--          <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a> -->
          <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+         <a href="#"><img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4.svg?logo=google-cloud&logoColor=white"></a>
+
          
 </p>
 
