@@ -25,7 +25,7 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning -->
 
-- 👯 I’m looking to collaborate as Frontend Developer.
+- 👯 I’m looking to collaborate as Backend or Full-stack Developer.
 - 😄 Pronouns: He/Him
   <!-- - 📫 How to reach me: ... -->
   <!-- - 🤔 I’m looking for help with ...
